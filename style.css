@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+h1,h2,h3{
+    color: gray;
+}
 
 header{
     height: 100vh;
@@ -216,6 +219,7 @@ footer{
     }
     .section2{
         height: auto;
+        margin-top: 30px;
     }
 
     .section2-card .card{
@@ -270,6 +274,7 @@ footer{
     }
     .section2{
         height: auto;
+        margin-top: 30px;
     }
 
     .section2-card .card{
